@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  </head>
+  <body>
+    <header>
+      <h1>BIENVENIDO A la WEB de !</h1>
+      <picture> <img>Logo empresa
+        <nav> <a>Nosotros.html </a><a>NuestrosServicios.html
+            <aside>
+              <h2>Conócenos mejor</h2>
+              <h3>Noticias destacadas</h3>
+              <p>[...] </p>
+              <section>
+                <h3>Colaboradores</h3>
+                <p>[...] </p>
+                <section>
+                  <header>
+                    <h1>Título del artículo</h1>
+                    <h2>Subtitulo</h2>
+                    <article>
+                      <h3>Título</h3>
+                      <p>[...] </p>
+                      <article>
+                        <h3>Título</h3>
+                        <p>[...] </p>
+                        <footer>
+                          <h4>Autor </h4>
+                          <p>[...] </p>
+                          <section>
+                            <header>
+                              <h1>Título del artículo</h1>
+                              <h2>Subtitulo</h2>
+                              <article>
+                                <h3>Título</h3>
+                                <p>[... ] </p>
+                                <article>
+                                  <h3>Título</h3>
+                                  <p>[...] </p>
+                                  <footer>
+                                    <h4>Autor </h4>
+                                    <p>[…] </p>
+                                    <footer> CopyRight </footer>
+                                  </footer>
+                                </article>
+                              </article>
+                            </header>
+                          </section>
+                        </footer>
+                      </article>
+                    </article>
+                  </header>
+                </section>
+              </section>
+            </aside>
+          </a></nav>
+      </picture></header>
+  </body>
+</html>
