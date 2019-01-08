@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>nuestrosServicios.html</title>
   </head>
   <body>
@@ -226,6 +225,5 @@
       purus volutpat eget. Integer hendrerit lectus elit, vitae sagittis libero
       interdum ac. </p>
     <a name="fin"></a> <a href="#inicio">Inicio</a>
-  
-
-</body></html>
+  </body>
+</html>
